@@ -1,27 +1,19 @@
-# NgMap
+# Kafka-Map-Streaming-App-Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
+Frontend App for https://github.com/sebastian-alexandru/Kafka-Map-Streaming-App-Backend
 
-## Development server
+Application used for managing geospatial locations stored as GeoJSON objects such as Points, LineStrings and Polygons
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+DB: PostgreSQL
 
-## Code scaffolding
+ORM: Hibernate
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+BE: SpringBoot
 
-## Build
+FE: Angular
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Containerization: Docker, Kubernetes
 
-## Running unit tests
+Other Technologies Used: Apache Kafka, GraphQL, Apollo GraphQL, Ngx-MapLibreGL, PostGIS
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![ngmap](https://user-images.githubusercontent.com/101641598/224861236-6d4049ed-57d1-405c-8a2e-1a1bf806704d.png)
